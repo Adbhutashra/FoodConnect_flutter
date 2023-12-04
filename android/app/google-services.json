@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "564900138715",
+    "project_id": "foodconnect-9600c",
+    "storage_bucket": "foodconnect-9600c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564900138715:android:6cdc9013e2eca3d2adc6fe",
+        "android_client_info": {
+          "package_name": "com.example.foodconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn4UhyAHhE_5KG_0tF_20ypWMksA0v3Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
